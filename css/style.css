@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrappent {
+    background: url(../img/h.png);
+
+}
+
+.block {
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    border: 1px solid black;
+    margin-top: 20px;
+    ;
+}
+
+.child {
+    width: 100px;
+    height: 100px;
+    background-color: peachpuff;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.block2 {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.block3 {
+    width: 80%;
+    height: 250px;
+    background-color: aqua;
+    border: 1px solid black;
+    margin-top: 20px;
+}
