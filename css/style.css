@@ -3,7 +3,7 @@
 }
 
 .wrappent {
-    background: url(../img/h.png);
+    background: url(../img/c.jpg);
 
 }
 
@@ -13,6 +13,7 @@
     background-color: aqua;
     border: 1px solid black;
     margin-top: 20px;
+
     ;
 }
 
@@ -22,6 +23,7 @@
     background-color: peachpuff;
     border: 1px solid black;
     margin-top: 20px;
+    margin: 9px;
 }
 
 .block2 {
